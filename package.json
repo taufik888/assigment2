@@ -1,0 +1,14 @@
+{ 
+  "name": "asigment-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/app.css -o ./dist/output.css --watch"
+  },
+  "author": "taufik",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
